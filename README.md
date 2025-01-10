@@ -32,6 +32,9 @@ POST /cart: Add a product to the cart.
 PUT /cart/:id: Update cart item quantity.
 DELETE /cart/:id: Remove a product from the cart.
 ### User Authentication
+
+Git-Repo-Link
+https://github.com/pavanreddy986/Backend_Project/tree/main
 POST /register: Register a new user.
 POST /login: Authenticate a user and receive a JWT token.
 ### Protected Routes
